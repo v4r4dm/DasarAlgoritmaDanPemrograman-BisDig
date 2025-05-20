@@ -49,15 +49,15 @@ Mencari Nilai Tertinggi: Setelah semua nilai telah diinput dan disimpan dalam ar
 
 5. Algoritma untuk menghitung total harga pembelian 3 barang:
 Langkah-langkah Algoritma:
-1. Inisialisasi Variabel:
+- Inisialisasi Variabel:
 Buat tiga variabel untuk menyimpan harga masing-masing barang (misalnya, harga1, harga2, harga3). Inisialisasi variabel-variabel ini dengan nilai 0 atau nilai awal lainnya jika diperlukan.
 Buat variabel total_harga untuk menyimpan total harga pembelian. Inisialisasi dengan nilai 0.
-2. Input Harga Barang:
+- Input Harga Barang:
 Minta pengguna untuk memasukkan harga barang pertama (harga1). Gunakan mekanisme input yang sesuai (misalnya, fungsi input() di Python).
 Minta pengguna untuk memasukkan harga barang kedua (harga2).
 Minta pengguna untuk memasukkan harga barang ketiga (harga3).
 Lakukan validasi input untuk memastikan bahwa input adalah angka (bukan teks atau karakter lain yang akan menyebabkan error).
-3. Hitung Total Harga:
+- Hitung Total Harga:
 Jumlahkan harga ketiga barang: total_harga = harga1 + harga2 + harga3.
-4. Tampilkan Total Harga:
+- Tampilkan Total Harga:
 Tampilkan nilai total_harga kepada pengguna. Gunakan mekanisme output yang sesuai (misalnya, fungsi print() di Python).
